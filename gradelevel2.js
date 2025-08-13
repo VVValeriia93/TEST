@@ -1,5 +1,5 @@
 findGradeLevel("John", "30");
-findGradeLevel("Leya", "90");
+findGradeLevel("Leya", "50");
 findGradeLevel("Danny", "40");
 findGradeLevel("Anna", "101");
 
