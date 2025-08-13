@@ -6,7 +6,7 @@ findGradeLevel("Anna", "101");
 function findGradeLevel(name, marks) {
     marks = Number(marks);
 
-    if (marks < 0 || marks > 100) {
+    if (marks < 2 || marks > 100) {
         console.log(name + " has Invalid Marks");
     } else if (marks >= 90) {
         console.log(name + " you have received S grade");
