@@ -1,7 +1,7 @@
 findGradeLevel("John", "75");
 findGradeLevel("Leya", "90");
 findGradeLevel("Danny", "40");
-findGradeLevel("Anna", "80");
+findGradeLevel("Anna", "101");
 
 function findGradeLevel(name, marks) {
     marks = Number(marks);
